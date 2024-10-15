@@ -72,7 +72,7 @@ git clone https://github.com/amaankazi81/Real-Time-Web-Chat-Application.git
 Navigate to the project folder:
 
 
-cd chat-app
+cd Real-Time-Web-Chat-Application
 
 Install dependencies (for the WebSocket server):
 
