@@ -1,6 +1,6 @@
 **Real-Time Chat Application**
 
-This is a real-time chat application built with HTML, CSS, JavaScript, and WebSockets. The frontend is hosted on GitHub Pages, while the WebSocket server is hosted on Heroku (or any other hosting platform). Users can join chat rooms, send messages, and view the list of online users in real time.
+This is a real-time chat application built with HTML, CSS, JavaScript, and WebSockets. The frontend is hosted on GitHub Pages, while the WebSocket server is hosted in localhost (or any other hosting platform). Users can join chat rooms, send messages, and view the list of online users in real time.
 
 
 **Features :**
