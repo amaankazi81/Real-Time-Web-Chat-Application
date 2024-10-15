@@ -92,7 +92,8 @@ Open the index.html file in your browser, or use a local server like Live Server
 **Hosting**
 
 Frontend: Hosted on GitHub Pages.
-Backend: WebSocket server host on other cloud platform.
+
+Backend: WebSocket server host on local or other cloud platform.
 
 Make sure the WebSocket server URL in app.js points to the correct hosted URL. 
 
