@@ -99,7 +99,7 @@ Make sure the WebSocket server URL in app.js points to the correct hosted URL.
 
 Update this line:
 
-javascript
+javascript (app.js, ln:15)
 
 const socket = new WebSocket('wss://your-websocket-server-url');
 
