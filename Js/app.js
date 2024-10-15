@@ -12,7 +12,7 @@ const createRoomButton = document.getElementById('create-room-btn');
 const usersCountDisplay = document.getElementById('users-count');  
 const usersListContainer = document.getElementById('users-list');  
 
-const socket = new WebSocket('ws://localhost:3000');
+const socket = new WebSocket('ws:https://amaankazi81.github.io/Web-Chat-Application/');
 
 // WebSocket open connection event
 socket.addEventListener('open', () => {
