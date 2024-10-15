@@ -68,7 +68,7 @@ Git
 Clone the repository:
 
 
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/amaankazi81/Real-Time-Web-Chat-Application.git
 
 Navigate to the project folder:
 
