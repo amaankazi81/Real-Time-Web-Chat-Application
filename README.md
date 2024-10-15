@@ -51,7 +51,6 @@ Users can view a list of online users and the current count in the room.
 ![14](https://github.com/user-attachments/assets/d8677d20-c24b-42b7-80f6-cd52b6ef4411)
 
 
-**Note:** Ensure the WebSocket server is running and publicly accessible.
 
 **Project Setup**
 
