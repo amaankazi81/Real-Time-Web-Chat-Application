@@ -67,25 +67,21 @@ Git
 
 Clone the repository:
 
-bash
 
 git clone https://github.com/yourusername/chat-app.git
 
 Navigate to the project folder:
 
-bash
 
 cd chat-app
 
 Install dependencies (for the WebSocket server):
 
-bash
 
 npm install
 
 Run the WebSocket server locally:
 
-bash
 
 node server.js
 
